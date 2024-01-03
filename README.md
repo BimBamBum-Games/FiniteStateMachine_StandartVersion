@@ -1,0 +1,2 @@
+# FiniteStateMachine_StandartVersion
+Referans Mode
